@@ -1,2 +1,2 @@
-myapp
+github
 this is my app
